@@ -9,7 +9,7 @@ export class ProductDescriptionComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 }
